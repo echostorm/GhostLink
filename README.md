@@ -8,10 +8,14 @@ Homepage: [comingsoon](http://#)
 Blog: [comingsoon](http://#)  
 forum: 'support forum'  
 
-
+--------------------------------------------------------------------------------------------------------------------------
 Augmented Reality Computing Platform
-=========
+--------------------------------------------------------------------------------------------------------------------------
 
+Augmented reality tele-presence platform using AR glasses + flying drone spheres...
+
+
+--------------------------------------------------------------------------------------------------------------------------
 Folder Structure:
 
 /ghostlink   ----> QT 5 QML/wayland based linux distro based system running on the GLink embeded platform attached to CastAR or GhostLink Glasses...
