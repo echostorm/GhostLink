@@ -1,6 +1,11 @@
 GhostLink
 =========
 
+Homepage: [comingsoon](http://#)  
+Blog: [comingsoon](http://#)  
+forum: 'support forum'  
+
+
 Augmented Reality Computing Platform
 
 
