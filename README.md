@@ -1,13 +1,16 @@
 GhostLink
 =========
 
+![GhostLink Banner](https://raw2.github.com/echostorm/GhostLink/master/media/Backgrounds/FlagBG.png)
+
+--------------------------------------------------------------------------------------------------------------------------
 Homepage: [comingsoon](http://#)  
 Blog: [comingsoon](http://#)  
 forum: 'support forum'  
 
 
 Augmented Reality Computing Platform
-
+=========
 
 Folder Structure:
 
@@ -25,4 +28,6 @@ Folder Structure:
 
 /ccpatent    ----> CC licensed Ghost Link concept.
 
- 
+/wiki        ----> Where you should always first come for help.
+
+/indiegogo   ----> place all crowdfunding material here.
